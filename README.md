@@ -104,7 +104,7 @@
     <th>سه شنبه</th>
   </tr>
    <tr>
-    <th ></th>
+    <th ><a href="#">مهندسی نیازمندی ها</a></th>
     <th ></th>
     <th ></th>
     <th></th>
@@ -113,7 +113,7 @@
     <th>چهارشنبه</th>
   </tr>
    <tr>
-     <th ><a href="#">مهندسی نیازمندی ها</a></th>
+     <th ></th>
      <th ></th>
      <th ><a href="#">مباحث ویژه در نرم افزار 1</a></th>
      <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture#TOC">معماری نرم افزار</a></th>
