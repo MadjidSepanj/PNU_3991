@@ -14,13 +14,13 @@
 ------------------
 ## فهرست درس ها  
 
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
+[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC)
 <br>
-[1115297_01	مهندسی نیازمندی ها	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
+[1115297_01	مهندسی نیازمندی ها	3]
 <br>
-[1115280_01	معماري نرم افزار	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture)
+[1115280_01	معماري نرم افزار	3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture#TOC)
 <br>
-[1115284_01	مباحث ویژه در نرم افزار1	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/MscSeminar-1)
+[1115284_01	مباحث ویژه در نرم افزار1	3]
 
 --------------
 ## گروه های درسی
